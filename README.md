@@ -1,5 +1,4 @@
 # First Fit Memory Allocation
----
 ## Introduction
 This is my submission for CS471 Spring 2021 Project 2. Code is found in cs471-project2 folder.
 
